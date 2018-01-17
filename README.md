@@ -5,7 +5,7 @@
 - `git config --global user.name <Name>`
 - `git config --global user.email <Email>`
 
-## Pasos:
+## Pasos: 
  * Crear un folder para un repositorio
  * Ejecutar: `> git init`
  * Ejecutar: `> git clone <Repository URL>`
