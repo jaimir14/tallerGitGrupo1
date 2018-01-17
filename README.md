@@ -1,6 +1,5 @@
 # Pasos Para taller 1
 
- * Descargar git: http://gitforwindows.org/
  * Crear un folder para un repositorio
  * Ejecutar: > git init
  * Ejecutar: > git clone <Repository URL>
