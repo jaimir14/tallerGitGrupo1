@@ -1,11 +1,11 @@
-# Pasos Para taller 1
+# Taller
 
 ## Git config commands:
 - `git config --list`
 - `git config --global user.name <Name>`
 - `git config --global user.email <Email>`
 
-
+## Pasos:
  * Crear un folder para un repositorio
  * Ejecutar: `> git init`
  * Ejecutar: `> git clone <Repository URL>`
