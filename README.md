@@ -1,5 +1,5 @@
 # tallerGitGrupo1
 
-* Item 1
-* Item 2
-* Item 3
+* Kat1
+* Kat2
+* Kat3
