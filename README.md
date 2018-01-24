@@ -1,2 +1,2 @@
 # tallerGitGrupo1
-merge test
+merge test 2
