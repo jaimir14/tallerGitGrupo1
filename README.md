@@ -1,2 +1,2 @@
 # tallerGitGrupo1
-Katy was here! 
+pkt was here! 
